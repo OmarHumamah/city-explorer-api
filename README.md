@@ -1,32 +1,53 @@
 # city-explorer-api
 
-
-**Author**: Your Name Goes Here
-**Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
+**Author**: Omar Humamah
+**Version**: 1.0.0
+**Version**: 2.0.0
 
 ## Overview
-<!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for this class. (i.e. What's your problem domain?) -->
+
+this API provides data about weather and moves
 
 ## Getting Started
-<!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+
+`https://omar-city-explorer-api.herokuapp.com/weather`
+`https://omar-city-explorer-api.herokuapp.com/weatherbit`
+`https://omar-city-explorer-api.herokuapp.com/movies`
 
 ## Architecture
-<!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
+
+`node.js`, `express`, `axios`, `cors`, `dotenv`
 
 ## Change Log
-<!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
 
-01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
+`09-07-2021 22:00 - the API sending weather data on /weather`
+
+`09-08-2021 18:45 - the API sending weather data on /weather and on /weatherbit, and movies data ond /movies`
 
 ## Credit and Collaborations
 
+Bashar al damen
 
-Name of feature: ________________________________
+Name of feature: send API
 
-Estimate of time needed to complete: _____
+## Time Estimates lab07
 
-Start time: _____
+- Estimate of time needed to complete: 2 hours
 
-Finish time: _____
+- Start time: 14:00
 
-Actual time needed to complete: _____
+- Finish time: 21:00
+
+- Actual time needed to complete: 7 hours
+
+## Time Estimates lab08
+
+- Name of feature: request API and send API
+
+- Estimate of time needed to complete: 2hours
+
+- Start time: 14:00
+
+- Finish time: 18:20
+
+- Actual time needed to complete: 3 hours and 40mins
