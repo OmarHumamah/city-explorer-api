@@ -3,6 +3,7 @@
 **Author**: Omar Humamah
 **Version**: 1.0.0
 **Version**: 2.0.0
+**Version**: 3.0.0
 
 ## Overview
 
@@ -20,9 +21,11 @@ this API provides data about weather and moves
 
 ## Change Log
 
-`09-07-2021 22:00 - the API sending weather data on /weather`
+`09-06-2021 22:00 - the API sending weather data on /weather`
 
-`09-08-2021 18:45 - the API sending weather data on /weather and on /weatherbit, and movies data ond /movies`
+`09-07-2021 18:45 - the API sending weather data on /weather and on /weatherbit, and movies data ond /movies`
+
+`09-08-2021 18:45 - the API sending weather data on /weatherbit, and movies data ond /movies`
 
 ## Credit and Collaborations
 
@@ -51,3 +54,15 @@ Name of feature: send API
 - Finish time: 18:20
 
 - Actual time needed to complete: 3 hours and 40mins
+
+## Time Estimates lab09
+
+- Name of feature: modeling functions
+
+- Estimate of time needed to complete: 30mins
+
+- Start time: 12:45
+
+- Finish time: 13:17
+
+- Actual time needed to complete: 32mis
