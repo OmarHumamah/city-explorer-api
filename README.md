@@ -25,7 +25,9 @@ this API provides data about weather and moves
 
 `09-07-2021 18:45 - the API sending weather data on /weather and on /weatherbit, and movies data ond /movies`
 
-`09-08-2021 18:45 - the API sending weather data on /weatherbit, and movies data ond /movies`
+`09-08-2021 13:19 - the API sending weather data on /weatherbit, and movies data ond /movies`
+
+`09-09-2021 12:15 - the API sending weather data on /weatherbit, and movies data ond /movies. and the movies's data is persist so the the API will request it once and store it at server memory`.
 
 ## Credit and Collaborations
 
@@ -66,3 +68,15 @@ Name of feature: send API
 - Finish time: 13:17
 
 - Actual time needed to complete: 32mis
+
+## Time Estimates lab09
+
+- Name of feature: make movies' data persist
+
+- Estimate of time needed to complete: 15mins
+
+- Start time: 12:00
+
+- Finish time: 13:11
+
+- Actual time needed to complete: 11mis
